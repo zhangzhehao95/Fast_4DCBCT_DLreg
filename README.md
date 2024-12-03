@@ -6,7 +6,7 @@ This work aims to improve the efficiency of 4D-CBCT MoCo reconstruction using DL
 Authored by: Zhehao Zhang, Yao Hao, Xiyao Jin, Deshan Yang, Ulugbek S. Kamilov, Geoffrey D. Hugo
 
 ## Citation
-
+Zhang, Zhehao, Yao Hao, Xiyao Jin, Deshan Yang, Ulugbek S. Kamilov, and Geoffrey D. Hugo. “Fast motion-compensated reconstruction for 4D-CBCT using deep learning-based groupwise registration.” Biomed Phys Eng Express, November 27, 2024. https://doi.org/10.1088/2057-1976/ad97c1.
 
 
 ## To get started
